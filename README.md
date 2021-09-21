@@ -7,8 +7,10 @@ Bu program **Python** dili ile yazılmıştır.
 ![image1](https://user-images.githubusercontent.com/84701901/134167894-1c3160a1-6a40-4511-a20d-de0ad82195f8.jpg)
 ![image0](https://user-images.githubusercontent.com/84701901/134167896-3bee164d-85e7-45d8-b2e0-710fe47933be.jpg)
 
-****This program has only been tested on windows 10 64-bit Pro version.
-****Bu program yalnızca Windows 10 64-bit Pro sürümünde test edilmiştir.
+This program has only been tested on windows 10 64-bit Pro version.
+
+Bu program yalnızca Windows 10 64-bit Pro sürümünde test edilmiştir.
+
 - Log in with the username and password you used to log in to Instagram.
   * Instagram'a giriş yapmak için kullandığınız kullanıcı adı ve şifre ile giriş yapın.
 - In the window where you see your information, you can see the users you follow in the sub-regions, the users who follow you and the users who do not follow you back.
@@ -23,6 +25,8 @@ Bu program **Python** dili ile yazılmıştır.
   * "@" ile başlayan yazıya tıkladığınızda sizi kullanıcının Instagram sayfasına yönlendirecektir.
 - You can see the user's post count, the number of followers and the number of people they follow.
   * Kullanıcının gönderi sayısını, takipçi sayısını ve takip ettiği kişi sayısını görebilirsiniz.
+- By clicking the "clear" button, you can clear the page and search for another user.
+  * "clear" butonuna tıklayarak sayfayı temizleyebilir başka bir kullanıcıyı arayabilirsiniz.
 - If you click on the "Profile Picture" button, you can download the user's profile picture to your computer.
   * "Profil Resmi" butonuna tıklarsanız, kullanıcının profil resmini bilgisayarınıza indirebilirsiniz.
 - By creating a folder named "Instagram_Profile_Photo" on the desktop, it downloads the picture of the user you want to download into this folder.
