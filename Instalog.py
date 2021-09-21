@@ -177,8 +177,8 @@ class MainCommands:
         url = f"https://instagram85.p.rapidapi.com/account/{self.user_se.get()}/info"
 
         headers = {
-            'x-rapidapi-key': "x-rapidapi-key",
-            'x-rapidapi-host': "x-rapidapi-host"
+            'x-rapidapi-key': "21360447c4mshffc6772709e0d45p196a87jsn9996df927a1d",
+            'x-rapidapi-host': "instagram85.p.rapidapi.com"
             }
         response = requests.request("GET", url, headers=headers)
         self.istek = response.json()
